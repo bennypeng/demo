@@ -1,0 +1,5 @@
+.idea/
+demo/__pycache__/
+demo/spiders/__pycache__/
+images/*
+.DS_Store
